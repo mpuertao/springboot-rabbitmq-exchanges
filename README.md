@@ -1,2 +1,5 @@
 # springboot-rabbitmq-exchanges
-Microservicios Consumer y Provider que tienen de intermediario servicio de RabbitMQ con todos sus tipos de Exchanges tanto Direct, Topic y Fanout
+
+# Application Properties
+
+Se deben cambiar las variables en el ApplicationProperties como IP, USUARIO Y PASSWORD del server de rabbitMQ
